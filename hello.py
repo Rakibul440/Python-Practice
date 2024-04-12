@@ -53,7 +53,7 @@ def myName():
     global name
     name = 'Rakibul Islam Mondal'
     print('Your name is ',name)
-myName();
+myName()
 print('The name variables is still : ',name)
 
 # Also, use the global keyword if you want to change a global variable inside a function.
